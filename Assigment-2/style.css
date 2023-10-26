@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.my-nav{
+    position: absolute;
+    margin-top: 0px;
+    bottom: 950px;
+    z-index: 1000;
+}
+.logo{
+    margin-left: 5%;
+}
+.list{
+    margin-right: 5%;
+}
+.list ul li a{
+    text-decoration: none;
+    color: White;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+   
+}
+.list ul li{
+    display: inline;
+  
+}
+.body-para{
+    font-size: 18px;
+    padding-top: 5px;
+}
+.body-para2{
+    font-size: 18px;
+    padding-top: 14.8%;
+}
+.second-body{
+    color: white;
+    background-color: black;
+}
+
+.black-content{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.numbers{
+    font-size: 25px;
+    font-weight: 500;
+
+}
+.col-img img{
+    border-radius: 10px;
+}
+.paras{
+    display: flex;
+    justify-content: space-between;
+}
+.aval{
+    display: flex;
+    justify-content: center;
+}
+.available{
+    font-weight: 700;
+}
+.my-btn{
+    width: 20%;
+    margin-left: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.my-foot{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logo ul li a{
+    display: inline;
+    color: black;
+    text-decoration: none;
+}
+.icons i{
+    display: inline;
+}
+.footer-logo i{
+    color: #666666;
+    margin-left: 20px;
+}
